@@ -1,0 +1,21 @@
+textarea {
+    min-height: 400px;
+}
+
+.read{
+    background-color: rgb(243, 243, 243);
+}
+#archive-icon{
+    width: 4%;
+    height: 2rem;
+}
+
+#email-recipients ,
+.heading{
+    font-weight: bold;
+}
+
+#reply-email-button ,.compose-btn, #email-card{
+    margin-top: 3px;
+}
+
